@@ -5,5 +5,5 @@
 
 ### You’ll also gain experience in an essential data science skill — exploratory data analysis. This will allow you to perform critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data. Press play to begin!
 
-[Project Link on Datacamp website]([https://www.google.com](https://app.datacamp.com/learn/projects/entertainment-data)
+### [Project Link on Datacamp website](https://app.datacamp.com/learn/projects/entertainment-data)
 
